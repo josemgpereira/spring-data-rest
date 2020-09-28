@@ -1,0 +1,12 @@
+INSERT INTO AD (OWNER, TITLE, DESCRIPTION, PRICE) VALUES ('owner1', 'title1', 'description1', 1.1);
+INSERT INTO AD (OWNER, TITLE, DESCRIPTION, PRICE) VALUES ('owner2', 'title2', 'description2', 2.2);
+INSERT INTO AD (OWNER, TITLE, DESCRIPTION, PRICE) VALUES ('owner3', 'title3', 'description3', 3.3);
+INSERT INTO AD (OWNER, TITLE, DESCRIPTION, PRICE) VALUES ('owner4', 'title4', 'description4', 4.4);
+INSERT INTO AD (OWNER, TITLE, DESCRIPTION, PRICE) VALUES ('owner5', 'title5', 'description5', 5.5);
+INSERT INTO AD (OWNER, TITLE, DESCRIPTION, PRICE) VALUES ('owner6', 'title6', 'description6', 6.6);
+INSERT INTO AD (OWNER, TITLE, DESCRIPTION, PRICE) VALUES ('owner7', 'title7', 'description7', 7.7);
+INSERT INTO AD (OWNER, TITLE, DESCRIPTION, PRICE) VALUES ('owner8', 'title8', 'description8', 8.8);
+INSERT INTO AD (OWNER, TITLE, DESCRIPTION, PRICE) VALUES ('owner9', 'title9', 'description9', 9.9);
+INSERT INTO AD (OWNER, TITLE, DESCRIPTION, PRICE) VALUES ('owner10', 'title10', 'description10', 10.10);
+INSERT INTO AD (OWNER, TITLE, DESCRIPTION, PRICE) VALUES ('owner11', 'title11', 'description11', 11.11);
+INSERT INTO AD (OWNER, TITLE, DESCRIPTION, PRICE) VALUES ('owner12', 'title12', 'description12', 12.12);
